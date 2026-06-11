@@ -37,7 +37,7 @@ La herramienta automatiza el proceso de **Descubrimiento de Activos (Asset Disco
 
 1. **Clona el repositorio u obtén el script:**
    ```powershell
-   git clone https://github.com
+   git clone https://github.com/JohawebK/-JohaScanner---Esc-ner-de-Red-y-Puertos-Local.git
    cd JohaScanner
    ```
 
